@@ -1,6 +1,7 @@
 # odin-recipes
 
 Odin Recipes - Ichiraku Ramen Shop
+#live preview [click here](https://gxuxhxm.github.io/odin-recipes/)
 Welcome to the Odin Recipes repository! This repository contains the HTML code for a website showcasing recipes from Ichiraku Ramen Shop. Ichiraku Ramen Shop is a popular fictional ramen shop from the anime series Naruto. In this website, you will find recipes for Naruto Ramen, Shoyo Ramen, and Matcha Green Tea.
 
 `Description`
